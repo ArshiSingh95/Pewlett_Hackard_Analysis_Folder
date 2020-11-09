@@ -1,9 +1,9 @@
-#Pewlett Hackard Analysis
+# Pewlett Hackard Analysis
 
-#Overview
+## Overview
 The purpose of this analysis was to explore the volume of retirees, role vacancies. This analysis will provide visilbilt into how many individuals will be retiring and how many job openings there will be in the future. SQL will be used to build employee databases from 6 different CSV files.
 
-###Results
+## Results
 Per the data, Senior Engineer and Senior Staff have the highest volume of retirees. This means there will be a demand in these roles.
 
 ![](./resources/count_dept.png)
@@ -13,7 +13,7 @@ There is only 2 retirees in the Manage role. This may be an error in the data si
 
 
 
-###Summary
+## Summary
 
 There is a strong need for PH to develop potential senior candiidaes and hire to feed the funnel. Not all employees will be willing to mentor thus taking the next steps is essential. 
 
